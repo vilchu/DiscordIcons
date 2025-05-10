@@ -38,34 +38,35 @@
   --si-profile-customization: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/profiles.svg");
   --si-content-social: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/userplus.svg");
   --si-data-privacy: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/privacy.svg");
-  --si-family-center: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Supervisor_Account.svg");
-  --si-authorized-apps: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/App_Registration.svg");
-  --si-sessions: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Devices.svg");
-  --si-connections: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Link.svg");
-  --si-settings-clips: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Theaters.svg");
-  --si-discord-nitro: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Discord/Nitro.svg");
-  --si-nitro-server-boost: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Discord/Server_Boost.svg");
-  --si-subscriptions: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Fact_Check.svg");
-  --si-library-inventory: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Redeem.svg");
-  --si-billing: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Receipt_Long.svg");
-  --si-appearance: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Brush.svg");
-  --si-accessibility: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Accessibility_New.svg");
-  --si-voice-video: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Perm_Camera_Mic.svg");
+  --si-family-center: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/users.svg");
+  --si-authorized-apps: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/key.svg");
+  --si-sessions: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/devices.svg");
+  --si-connections: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/connections.svg");
+  --si-settings-clips: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/clips.svg");
+  --si-discord-nitro: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/nitro.svg");
+  --si-nitro-server-boost: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/boost.svg");
+  --si-subscriptions: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/subscription.svg");
+  --si-library-inventory: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/gift.svg");
+  --si-billing: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/billing.svg");
+  --si-appearance: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/pallete.svg");
+  --si-accessibility: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/accessibility.svg");
+  --si-voice-video: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/voice.svg");
   --si-powermode-settings: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Discord/Party.svg");
-  --si-text-images: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Chat.svg");
-  --si-notifications: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Notifications_Active.svg");
-  --si-keybinds: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Keyboard.svg");
-  --si-language: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Translate.svg");
-  --si-windows: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Logo-Windows.svg");
+  --si-text-images: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/textandimages.svg");
+  --si-notifications: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/notifications.svg");
+  --si-keybinds: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/keyboard.svg");
+  --si-language: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/custom/msg_translate_filled_solar.svg");
+  --si-windows: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/windows.svg");
   --si-linux: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Logo-Tux.svg");
-  --si-streamer-mode: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Videocam.svg");
-  --si-advanced: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Tune.svg");
-  --si-activity-privacy: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Privacy.svg");
-  --si-game-activity: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Gamepad.svg");
-  --si-overlay: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Overlay.svg");
-  --si-changelog: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Update.svg");
-  --si-merchandise: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Shirt.svg");
+  --si-streamer-mode: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/streamermode.svg");
+  --si-advanced: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/settings.svg");
+  --si-activity-privacy: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/activityprivacy.svg");
+  --si-game-activity: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/gameactivity.svg");
+  --si-overlay: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/overlay.svg");
+  --si-changelog: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/changelog.svg");
+  --si-merchandise: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/merch.svg");
   --si-hypesquad-online: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Discord/HypeSquad.svg");
+
   --si-experiments: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Experiment.svg");
   --si-developer-options: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Memory.svg");
   --si-hotspot-options: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Memory.svg");
@@ -80,25 +81,27 @@
   --si-profile-effects-preview-tool: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Memory.svg");
   --si-nameplates-preview-tool: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Memory.svg");
   --si-web-setting-tree-tool: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Memory.svg");
+
   --si-logout: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Logout.svg");
+
   --si-overview: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Info.svg");
-  --si-roles: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Badge.svg");
-  --si-emoji: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Emoji.svg");
-  --si-stickers: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Stickers.svg");
-  --si-soundboard: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Soundboard.svg");
+  --si-roles: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/usershield.svg");
+  --si-emoji: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/emoji.svg");
+  --si-stickers: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/sticker.svg");
+  --si-soundboard: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/soundboard.svg");
   --si-widget: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Widgets.svg");
-  --si-guild_templates: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Library_Books.svg");
+  --si-guild_templates: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/template.svg");
   --si-vanity_url: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Share.svg");
-  --si-integrations: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Mediation.svg");
-  --si-app_directory: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Apps.svg");
+  --si-integrations: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/connections.svg");
+  --si-app_directory: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/custom/apps.svg");
   --si-moderation: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Safety_Setup.svg");
-  --si-safety: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Safety_Setup.svg");
+  --si-safety: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/usershield.svg");
   --si-guild_automod: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/AutoMod.svg");
-  --si-audit_log: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Audit_Log.svg");
-  --si-bans: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Gavel.svg");
-  --si-community: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Info.svg");
-  --si-onboarding: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Group_Add.svg");
-  --si-analytics: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Insights.svg");
+  --si-audit_log: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/clipboard.svg");
+  --si-bans: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/hammer.svg");
+  --si-community: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/community.svg");
+  --si-onboarding: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/onboarding.svg");
+  --si-analytics: url("https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/analytics.svg");
   --si-partner: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Discord/Partner.svg");
   --si-discovery: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Explore.svg");
   --si-community_welcome: url("https://raw.githubusercontent.com/gold-me/DiscordIcons/master/Icons/SVG/Explore.svg");
@@ -191,7 +194,6 @@
   --si-color-delete: var(--si-color);
   --si-color-permissions: var(--si-color);
 }
-
 
 
 /* X/close buttons */
@@ -1133,5 +1135,26 @@ body #app-mount .layer_d4b6c5 ~ .layer_d4b6c5 .sidebar__23e6b {
 #app-mount .standardSidebarView__23e6b:has(.bd-themes-tab[aria-selected="true"]) .contentColumn__23e6b,
 #app-mount .standardSidebarView__23e6b:has(.vc-themes[aria-selected="true"]) .contentColumn__23e6b {
 	--settingsicons-icon: var(--settingsicons-bd-themes) !important;
+}
+
+.sidebar__23e6b [data-tab-id="PROFILE"].item_b3f026:before {
+    mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/information.svg);
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/information.svg); 
+}
+.sidebar__23e6b [data-tab-id="ENGAGEMENT"].item_b3f026:before {
+    mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/merch.svg);
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/merch.svg); 
+}
+.sidebar__23e6b [data-tab-id="BOOST_PERKS"].item_b3f026:before {
+    mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/boost.svg);
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/boost.svg); 
+}
+.sidebar__23e6b [data-tab-id="INVITES"].item_b3f026:before {
+    mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/link.svg);
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/link.svg); 
+}
+.sidebar__23e6b [data-tab-id="ACCESS"].item_b3f026:before {
+    mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/link.svg);
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/key.svg); 
 }
 /* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
