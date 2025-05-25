@@ -14,6 +14,24 @@
 @import url("https://vilchu.github.io/DiscordIcons/DiscordIcons.theme.css");
 
 
+/* ================================================ */
+/* ======= < USERNAME BACKGROUND COLOUR > ======= */
+/* ============================================ */
+/* Username */
+.cozy_c19a55 .header_c19a55 {
+  margin-bottom: 4px;
+}
+/* chat */
+.headerText_c19a55 .username_c19a55,
+/* .name__91a9d,  memberlist */
+.repliedMessage_c19a55>.username_c19a55 /* replies */ {
+  background: color-mix(in srgb, currentColor 25%, rgba(0, 0, 0, 0.25));
+  text-shadow: 0 0 5px color-mix(in srgb, currentColor 25%, #000);
+  margin-right: 4px;
+  padding: 0 4px;
+  border-radius: 4px;
+}
+
 :root {
   container: root;
 
