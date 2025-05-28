@@ -197,3 +197,58 @@
   --si-color-delete: var(--si-color);
   --si-color-permissions: var(--si-color);
 }
+
+
+/* ---------------------------------------------------------------------- */    
+
+body #app-mount .sidebarRegion__23e6b {
+	flex-basis: calc(218px + (var(--use-settingsicons) * (var(--settingsicons-size) + var(--settingsicons-gap)))) !important;
+}
+body #app-mount .sidebar__23e6b,
+body #app-mount .layer_d4b6c5 ~ .layer_d4b6c5 .sidebar__23e6b {
+	width: calc(218px + (var(--use-settingsicons) * (var(--settingsicons-size) + var(--settingsicons-gap)))) !important;
+}
+.sidebar__23e6b .side_b3f026 .item_b3f026 {
+	--settingsicons-icon: var(--settingsicons-default);
+	display: flex;
+	align-items: center;
+}
+
+.sidebar__23e6b .side_b3f026 .item_b3f026::before {
+	background: currentColor;
+	z-index: 2;
+    mask: var(--settingsicons-icon) center/contain no-repeat;
+	-webkit-mask: var(--settingsicons-icon) center/contain no-repeat;
+}
+
+.sidebar__23e6b .side_b3f026 .item_b3f026.bd-settings-tab,
+.sidebar__23e6b .side_b3f026 .item_b3f026.vc-settings,
+#app-mount .standardSidebarView__23e6b:has(.bd-settings-tab[aria-selected="true"]) .contentColumn__23e6b,
+#app-mount .standardSidebarView__23e6b:has(.vc-settings[aria-selected="true"]) .contentColumn__23e6b {
+	--settingsicons-icon: var(--settingsicons-bd-settings) !important;
+}
+.sidebar__23e6b .side_b3f026 .item_b3f026.bd-updates-tab,
+.sidebar__23e6b .side_b3f026 .item_b3f026.vc-updater,
+#app-mount .standardSidebarView__23e6b:has(.bd-updates-tab[aria-selected="true"]) .contentColumn__23e6b,
+#app-mount .standardSidebarView__23e6b:has(.bd-updater[aria-selected="true"]) .contentColumn__23e6b {
+	--settingsicons-icon: var(--settingsicons-bd-updates) !important;
+}
+.sidebar__23e6b .side_b3f026 .item_b3f026.bd-customcss-tab,
+#app-mount .standardSidebarView__23e6b:has(.bd-customcss-tab[aria-selected="true"]) .contentColumn__23e6b {
+	--settingsicons-icon: var(--settingsicons-bd-customcss) !important;
+}
+.sidebar__23e6b .side_b3f026 .item_b3f026.bd-plugins-tab,
+.sidebar__23e6b .side_b3f026 .item_b3f026.vc-plugins ,
+#app-mount .standardSidebarView__23e6b:has(.bd-plugins-tab[aria-selected="true"]) .contentColumn__23e6b,
+#app-mount .standardSidebarView__23e6b:has(.vc-plugins[aria-selected="true"]) .contentColumn__23e6b{
+	--settingsicons-icon: var(--settingsicons-bd-plugins) !important;
+}
+.sidebar__23e6b .side_b3f026 .item_b3f026.bd-themes-tab,
+.sidebar__23e6b .side_b3f026 .item_b3f026.vc-themes,
+#app-mount .standardSidebarView__23e6b:has(.bd-themes-tab[aria-selected="true"]) .contentColumn__23e6b,
+#app-mount .standardSidebarView__23e6b:has(.vc-themes[aria-selected="true"]) .contentColumn__23e6b {
+	--settingsicons-icon: var(--settingsicons-bd-themes) !important;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
